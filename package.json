@@ -1,0 +1,23 @@
+{
+  "name": "amit-simple-interest-calculator",
+  "version": "1.0.0",
+  "description": "amit-simple-interest-calculator npm lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test amit-simple-interest-calculator"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amit6388/amit-simple-interest-calculator.git"
+  },
+  "keywords": [
+    "npm",
+    "amit-simple-interest-calculator"
+  ],
+  "author": "Amit Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amit6388/amit-simple-interest-calculator/issues"
+  },
+  "homepage": "https://github.com/amit6388/amit-simple-interest-calculator#readme"
+}
