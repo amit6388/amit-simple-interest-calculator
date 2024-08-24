@@ -1,6 +1,6 @@
 {
   "name": "amit-simple-interest-calculator",
-  "version": "1.0.0",
+ "version": "1.0.1",
   "description": "amit-simple-interest-calculator npm lib",
   "main": "index.js",
   "scripts": {
